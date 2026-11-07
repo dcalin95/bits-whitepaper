@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: BitSwapDEX AI
+  structure:
+    - type: space
+      key: space-1
+      title: BitSwapDEX
+      path: bitswap
+      default: true
+      content:
+        directory: ./bitswap

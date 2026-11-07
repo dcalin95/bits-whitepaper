@@ -1,0 +1,18 @@
+# Table of contents
+
+* [BitSwapDEX AI - $BITS - White Paper](README.md)
+* [DeFi  Problem Statement](defi-problem-statement.md)
+* [AI-Powered Bitcoin-Native Exchange Architecture](ai-powered-bitcoin-native-exchange-architecture.md)
+* [Arhitecture BitSwapDEX AI- $BITS](arhitecture-bitswapdex-ai-usdbits.md)
+* [Features and benefits](features-and-benefits.md)
+* [Stacks Migration & Bitcoin-Native Expansion](stacks-migration-and-bitcoin-native-expansion.md)
+* [BITS Neural Intelligence](bits-neural-intelligence.md)
+* [AI BITS Portofolio Allocator](ai-bits-portofolio-allocator.md)
+* [Tokenomics](tokenomics.md)
+* [Community Grants Program](community-grants-program.md)
+* [Roadmap](roadmap.md)
+* [Disclaimer](disclaimer.md)
+* [Legal Structure & Compliance](legal-structure-and-compliance.md)
+* [Logo](logo.md)
+* [Contributors](contributors.md)
+* [References](references.md)

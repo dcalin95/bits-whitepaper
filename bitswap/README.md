@@ -6,7 +6,9 @@ icon: baht-sign
 
 **BitSwapDEX AI - The AI-Driven Decentralized Exchange**
 
-<figure><img src=".gitbook/assets/354526ad-5a56-408e-91f1-9ceb4e0940fd.png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+**Current status (November 2026):** $BITS is live today as an ERC20 token on **BNB Smart Chain (BSC)**. The Stacks-native, Bitcoin-anchored DEX described below is the target architecture (Roadmap phases 5–6). The first live product is the **BITS Workbench** at [bits-ai.io](https://bits-ai.io): a demo trading account, automated Binance Futures robots and AI market intelligence. See the [Roadmap](roadmap.md) for what is delivered and what comes next.
+{% endhint %}
 
 ***
 

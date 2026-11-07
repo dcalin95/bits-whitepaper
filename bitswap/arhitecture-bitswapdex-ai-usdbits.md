@@ -2,7 +2,7 @@
 icon: battle-net
 ---
 
-# Arhitecture BitSwapDEX AI- $BITS
+# Architecture BitSwapDEX AI - $BITS
 
 #### **Advanced Architecture Overview: BitSwapDEX AI**
 

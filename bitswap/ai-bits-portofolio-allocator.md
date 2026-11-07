@@ -2,7 +2,7 @@
 icon: circle-dollar-to-slot
 ---
 
-# AI BITS Portofolio Allocator
+# AI BITS Portfolio Allocator
 
 These allocations form the baseline structure of the automated portfolio.
 
